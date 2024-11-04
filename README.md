@@ -1,4 +1,4 @@
-# zpix
+# [zpix](https://github.com/zig-gamedev/zpix)
 
 Performance markers for [Microsoft's PIX profiler](https://devblogs.microsoft.com/pix/documentation/) in Zig.
 
