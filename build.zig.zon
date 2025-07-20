@@ -2,6 +2,7 @@
     .name = .zpix,
     .fingerprint = 0x9bd6de5456c8d44f,
     .version = "0.11.0-dev",
+    .minimum_zig_version = "0.14.0",
     .paths = .{
         "build.zig",
         "build.zig.zon",
